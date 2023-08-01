@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "cytofQC"]
-	path = cytofQC
-	url = https://github.com/jillbo1000/cytofqc
 [submodule "EZtune"]
 	path = EZtune
 	url = https://github.com/jillbo1000/eztune
+[submodule "cytofQC"]
+	path = cytofQC
+	url = https://github.com/jillbo1000/cytofqc
