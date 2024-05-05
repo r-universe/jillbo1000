@@ -5,6 +5,3 @@
 [submodule "EZtune"]
 	path = EZtune
 	url = https://github.com/jillbo1000/eztune
-[submodule "cytofQC"]
-	path = cytofQC
-	url = https://github.com/jillbo1000/cytofqc
